@@ -1,0 +1,1 @@
+This lab focuses on building a well-structured web page using modern HTML5 practices. Participants learn to write clean, semantically correct code, implement interactive forms with client-side validation, and ensure their code meets web standards by using the W3C Validator. Additionally, the lab introduces version control and GitHub for publishing and managing the project.
